@@ -8,6 +8,8 @@ pull_inventory_US.php will collect data from all US Spaces. The US Spaces are ha
 
 Code is obtained from API. The API requires all fields, but not all need to be filled. distance, latitude and longitude I believe can be left empty.
 
-The output is saved in CSV format that can be imported into a spreadsheet. Header columns are: Space,Delivery Date,MSRP,Color,Interior,Wheels,Package,Package,Package,,
+The output is saved in CSV format that can be imported into a spreadsheet. Header columns are: 
+
+Space,Delivery Date,MSRP,Color,Interior,Wheels,Package,Package,Package,,
 
 
